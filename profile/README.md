@@ -2,7 +2,7 @@
 
 --- 
 
-## Welcome to DevCycle! 
+## Welcome to DevCycle! ![tiny-togglebot](/images/tiny-togglebot.png)
 
 Check out the following to get yourself up and running
 
