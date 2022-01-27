@@ -1,4 +1,4 @@
-[![header image](/images/header-3.png)](https://app.devCycle.com)
+[![header image](/images/banner-1.jpg)](https://app.devCycle.com)
 
 --- 
 
