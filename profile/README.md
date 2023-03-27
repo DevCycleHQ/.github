@@ -11,4 +11,3 @@ Check out the following to get yourself up and running
 * Head to our [Application Dashboard](https://app.devcycle.com/) 
 * Read about our [Feature Management API](https://docs.devcycle.com/management-api/) 
 * Or directly use our [Bucketing API](https://docs.devcycle.com/bucketing-api/)
-
