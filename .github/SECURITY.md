@@ -6,6 +6,8 @@ If you believe that you have found a security vulnerability in any DevCycle proj
 any DevCycle service, we encourage you to let us know right away. We will investigate all legitimate reports and do our
 best to quickly fix the problem. Before reporting though, please review these guidelines:
 
+We are a CVE CNA - https://www.cve.org/PartnerInformation/ListofPartners/partner/DevCycle - and as such maintain control over issuance of CVE's for our products.
+
 ## Rules
 - **Do not** take advantage of the vulnerability or problem you have discovered, for example by
 accessing another project/org/feature etc. that you do not have permission to access.
