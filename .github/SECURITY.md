@@ -35,4 +35,4 @@ a server do not use that access to start scanning or exploring our internal syst
 - If you are unsure if the vulnerability is related to a public GitHub repo or the DevCycle platform, please submit a report at the form above!
 
 ## Previous Vulnerabilities Reported
-None! Be the first!
+- `mous_haxk` - Pending invite data is returned to members and owners on the pending invite page.
