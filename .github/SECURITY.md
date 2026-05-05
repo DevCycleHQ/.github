@@ -30,7 +30,7 @@ a server do not use that access to start scanning or exploring our internal syst
 - If the vulnerability is related to one of our public GitHub repos; we ask that you follow the process to report a
   vulnerability on GitHub via the built-in vulnerability reporting tool [Documentation here](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)
 
-- We welcome reports to our [Hackerone VDP](https://hackerone.com/0f14ce17-36c7-4585-be89-b33f8b2d0f9c/embedded_submissions/new)
+- We welcome reports to the [Dynatrace HackerOne](https://hackerone.com/dynatrace)
 
 - If you are unsure if the vulnerability is related to a public GitHub repo or the DevCycle platform, please submit a report at the form above!
 
